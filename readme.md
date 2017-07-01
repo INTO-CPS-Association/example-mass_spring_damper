@@ -8,7 +8,7 @@ To know more about co-simulation, successive substitution and other stabilizatio
 
 Two mass-spring-damper systems are coupled as shown next:
 
-![Co-simulation scenario](images/mass-spring-damper_multibody_system "mass-spring-damper_multibody_system")
+![Co-simulation scenario](images/mass-spring-damper_multibody_system.pdf "mass-spring-damper_multibody_system")
 
 
 ## Running the Case Study
