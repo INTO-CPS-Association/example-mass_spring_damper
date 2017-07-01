@@ -1,4 +1,14 @@
-# Simple Mass Spring Damper Model Illustrating the stabilization feature
+# Case Study Showcasing a Stabilization Technique
+
+## Overview
+
+
+## Running the Case Study
+
+
+## Detailed Analysis
+
+
 
 The option is enabled in the co-simulation config:
 
