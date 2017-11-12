@@ -5,7 +5,7 @@ The mass spring damper study comprises two mass spring dampers and demonstrates 
 
 ![Mass Spring Damper System](images/mass-spring-damper_multibody_system.png)
 
-There are two simulators included in the study, each representing a mass spring damper system. The first simulator calculates the mass displacement and speed of m1 for a given force *Fk* acting on mass m1. The second simulator calculates force *Fk* given a displacement and speed of mass *m1*. By coupling these simulators, the evolution of the position of the two masses is computed.
+There are two simulators included in the study, each representing a mass spring damper system. The first simulator calculates the mass displacement and speed of *m1* for a given force *Fk* acting on mass *m1*. The second simulator calculates force *Fk* given a displacement and speed of mass *m1*. By coupling these simulators, the evolution of the position of the two masses is computed.
 
 ## Supported Features
 This study supports the following INTO-CPS technologies:
