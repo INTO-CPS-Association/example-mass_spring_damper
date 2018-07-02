@@ -16,4 +16,4 @@ This study supports the following INTO-CPS technologies:
 
 
 ## Additional Information
-For more information about this case study, contact the case study owner, [Kenneth Lausdahl](mailto:lausdahl@eng.au.dk).
+For more information about this case study, contact the case study owner, [Casper Thule](mailto:casper.thule@eng.au.dk).
